@@ -1,6 +1,6 @@
 # MIRs-IDH12-DNMT3A-AMLs
 
-Step00* | Make expression and methylation datasets
+Step00* | Find TADs, make expression and methylation datasets
 
 Step01* | Expression and methylation differences
 
